@@ -162,7 +162,7 @@
     .p1 .bg-block{
         width: 100vw;
         height: 85vh;
-        background-image: url('/img/mobile_view\ bg\(1\).avif');
+        /* background-image: url('/img/mobile_view\ bg\(1\).avif'); */
         /* background-position: 10%; */
         background-repeat: no-repeat;
         background-size: cover;
